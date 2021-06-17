@@ -1,0 +1,32 @@
+.jumbotron {
+    background-color: #010C79;
+    color: #fff;
+}
+
+h1 {
+    font-weight: 550;
+}
+
+.card {
+    border: none;
+    box-shadow: 1px 1px 10px 5px rgb(204, 204, 204);
+}
+
+.card:hover {
+    border-bottom: 5px solid #6B63FE;
+}
+
+#contact {
+    margin: none;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+#footer {
+    background-color: #010C79;
+    color: rgb(255, 255, 255);
+    padding-bottom: 20px;
+}
