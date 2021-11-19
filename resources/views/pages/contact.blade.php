@@ -35,7 +35,7 @@
                       @endforeach
             </ul>
                 </div>
-                  @endif
+  @endif
 
   <!-- awal menu contact us -->
 
@@ -95,7 +95,7 @@
                 <th>Telephone</th>
               </tr>
               <tr>
-                <td>Aji Wahyugi</td>
+                <td>Muhamad Novandi</td>
                 <td>+62-89643929650</td>
               </tr>
             </table>
